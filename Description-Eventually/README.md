@@ -47,74 +47,73 @@ Antes de começar, garanta que você tenha instalado:
     Localize o arquivo principal que contém o método `main` (ponto de entrada do programa). Clique com o botão direito sobre ele e selecione a opção **Run** (ou **Executar**).
 
 Pronto! O programa será compilado e iniciado.
-
 ## Telas e Funcionalidades do Aplicativo
 
 ### Tela de Login
 
-![Tela de login do aplicativo](resources/TelaLogin.png)
+![Tela de login do aplicativo](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/TelaLogin.png)
 
 ### Tela Inicial
 
-![Tela inicial com o dashboard principal de eventos](resources/TelaInicial.png)
+![Tela inicial com o dashboard principal de eventos](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/TelaInicial.png)
 
 ### Funcionalidades da Tela Inicial
 
 **Criar um Novo Evento**
-![Janela para criação de um novo evento](resources/JanelaCriarEvento.png)
+![Janela para criação de um novo evento](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/JanelaCriarEvento.png)
 
 **Editar Filtros de Visualização**
-![Janela para editar os filtros de eventos exibidos](resources/JanelaEditarFiltros.png)
+![Janela para editar os filtros de eventos exibidos](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/JanelaEditarFiltros.png)
 
 **Visualizar Detalhes de um Evento**
 _O sistema apresenta diferentes visualizações dependendo do seu status no evento._
-![Visualização de um evento no qual o usuário não está inscrito](resources/VisualizacaoEventoNInscrito.png)
-![Visualização de um evento logo após se inscrever](resources/VisualizacaoEventoPreInscrito.png)
-![Visualização de um evento no qual o usuário já está inscrito](resources/VisualizacaoEventoInscrito.png)
+![Visualização de um evento no qual o usuário não está inscrito](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/VisualizacaoEventoNInscrito.png)
+![Visualização de um evento logo após se inscrever](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/VisualizacaoEventoPreInscrito.png)
+![Visualização de um evento no qual o usuário já está inscrito](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/VisualizacaoEventoInscrito.png)
 
 **Visualizar Evento Próprio (Admin)**
 _Permite ver comentários, lista de participantes e gerenciar o evento._
-![Visualização do painel de gerenciamento de um evento próprio](resources/VisualizacaoEventoProprio.png)
+![Visualização do painel de gerenciamento de um evento próprio](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/VisualizacaoEventoProprio.png)
 
 **Compartilhar um Evento**
-![Janela para compartilhar um evento em redes sociais](resources/JanelaCompartilharEvento.png)
-![Exemplo de post gerado para o Twitter](resources/CompartilhamentoTwitter.jpg)
+![Janela para compartilhar um evento em redes sociais](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/JanelaCompartilharEvento.png)
+![Exemplo de post gerado para o Twitter](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/CompartilhamentoTwitter.jpg)
 
 **Excluir um Evento**
-![Janela de confirmação para exclusão de um evento](resources/JanelaExclusaoEvento.png)
+![Janela de confirmação para exclusão de um evento](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/JanelaExclusaoEvento.png)
 
 ### Tela "Meus Eventos"
 
 _Para visualizar os eventos criados, inscritos e os já realizados._
-![Tela de Meus Eventos](resources/TelaMeusEventos.png)
+![Tela de Meus Eventos](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/TelaMeusEventos.png)
 
 ### Tela de Programação
 
 _Permite ver os eventos criados e inscritos dos próximos 7 dias._
-![Tela de Programação](resources/TelaProgramacao.png)
+![Tela de Programação](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/TelaProgramacao.png)
 
 ### Tela de Configurações
 
 _Para edição de informações da conta do usuário._
-![Tela de Configurações](resources/TelaConfiguracoes.png)
+![Tela de Configurações](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/TelaConfiguracoes.png)
 
 ### Funcionalidades de Configuração
 
 **Editar Preferências de Conteúdo**
-![Janela para edição das preferências de conteúdo do usuário](resources/JanelaEdicaoPreferencias.png)
+![Janela para edição das preferências de conteúdo do usuário](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/JanelaEdicaoPreferencias.png)
 
 **Alterar Foto de Perfil**
-![Janela para alterar a foto do usuário](resources/JanelaAlterarFoto.png)
+![Janela para alterar a foto do usuário](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/JanelaAlterarFoto.png)
 
 **Alterar Dados Pessoais**
-![Janela para alteração de dados da conta do usuário](resources/JanelaAlteracaoValorConta.png)
+![Janela para alteração de dados da conta do usuário](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/JanelaAlteracaoValorConta.png)
 
 **Encerrar Sessão (Logout)**
-![Janela de confirmação para encerrar a sessão](resources/JanelaEncerrarSessao.png)
+![Janela de confirmação para encerrar a sessão](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/JanelaEncerrarSessao.png)
 
 ### Tela de Registro
 
-![Tela para registro de um novo usuário](resources/TelaRegistro.png)
+![Tela para registro de um novo usuário](https://raw.githubusercontent.com/gabriellatcc/Description-Projects/main/Description-Eventually/Resources/TelaRegistro.png)
 
 # Curiosidades de Desenvolvimento 💡
 
